@@ -17,7 +17,7 @@
 
 部分文件后缀名为：.goodnotes，该类文件为我自己写的笔记，可以使用GoodNotes软件打开。
 
-本人的环境为：MacBook Air M2，c/c++ IDE为Xcode，python IDE为PyCharm，$\LaTex$使用overleaf在线编译，部分文件使用VS Code打开，虚拟机使用VMWare。
+本人的环境为：MacBook Air M2，c/c++ IDE为Xcode，python IDE为PyCharm，$$\LaTex$$使用overleaf在线编译，部分文件使用VS Code打开，虚拟机使用VMWare。
 
 ## 致谢
 
