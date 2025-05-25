@@ -23,8 +23,8 @@
 
 另外向以下网站和仓库表达感谢：
 
-https://github.com/nanonane/Survive_the_Final，这是21CS的学姐的仓库～
+https://github.com/nanonane/Survive_the_Final  ，这是21CS的学姐的仓库～
 
-https://csdiy.wiki，终归要自学的，不是吗？
+https://csdiy.wiki  ，终归要自学的，不是吗？
 
-https://github.com/sunnylovelyday/database_of_BNUmath，这是一个数学与应用数学专业的仓库。
+https://github.com/sunnylovelyday/database_of_BNUmath  ，这是一个数学与应用数学专业的仓库。
