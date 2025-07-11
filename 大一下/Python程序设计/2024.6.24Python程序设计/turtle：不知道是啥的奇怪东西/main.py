@@ -1,0 +1,23 @@
+'''简单使用'''
+from turtle import *
+reset()
+shape('turtle')
+bgcolor('pink') #背景色
+pensize(2)
+pencolor('red')
+forward(50)
+penup()
+pencolor('green')
+left(45)
+forward(100)
+pendown()
+circle(30)
+right(90)
+forward(100)
+pensize(5)
+fillcolor('yellow')
+begin_fill()
+circle(-50, 180)
+end_fill()
+hideturtle()
+done()

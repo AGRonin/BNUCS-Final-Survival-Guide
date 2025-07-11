@@ -1,0 +1,116 @@
+ 
+旧网站EN
+
+首页 学院概况 招生专栏 人才培养 学生天地 科学研究 招贤纳士 党群工作 社会服务 公告及下载
+
+您的位置： 首页» 学院概况» 师资队伍» 正高级
+师资队伍
+人才称号
+正高级
+副高级
+中级
+退休教师
+正高级
+黄　华
+  时间：2023-11-09  浏览：10088
+20220323155324971734.png
+基本信息
+
+职称：教授（硕士生导师、博士生导师）
+研究方向：图像/视频处理、计算机图形学
+邮箱：huahuang@bnu.edu.cn
+个人简介
+
+黄华，北京师范大学人工智能学院教授，执行院长。2011年在西安交通大学破格晋升教授。2012年至2020年在北京理工大学计算机学院任教。2022年7月起在北京师范大学人工智能学院任教。
+主要从事图像/视频处理、计算摄像学、计算机图形学方面的研究工作。主持国家自然科学基金重点项目、国家重点研发计划项目等；发表学术论文百余篇，获授权国家发明专利60余项，部分成果在工业、国防、互联网行业得到应用。2014年获得国家杰出青年基金资助，获得第十四届中国青年科技奖，入选第三批万人计划科技领军人才。
+兼任“新一代人工智能”科技创新2030重大项目管理专家组成员，JKW XX智能专家组副组长；中国计算机学会常务理事、学术工作委员会副主任；中国图像图形学会常务理事、多媒体专业委员会主任；中国自动化学会理事、副秘书长。
+教育背景
+
+1992—1996  西安交通大学  电信学院无线电技术专业              学士
+1999—2001  西安交通大学  电信学院信息与通信工程专业     硕士
+2002—2006  西安交通大学  电信学院信息与通信工程专业     博士
+工作经历
+
+2020.08-至今，北京师范大学人工智能学院，教授。
+2012.04–2020.07，北京理工大学计算机学院，教授、历任学院副院长、校科研院高新部部长、校研究生院副院长。
+2001.09-2012.03，西安交通大学电信学院任教，2008年5月聘为博导，2011年1月晋升教授。
+主持和参加的科研项目
+
+在研的代表性项目
+1. 科技创新2030—重大项目课题《视觉及多模态基础模型评测方法与工具研究》，课题编号：2022ZD0116309，合同金额600万，执行期：2022.12-2025.11
+2. 国家自然科学基金重点项目《编码耦合与解码重构联合优化的计算摄像理论与方法》，课题编号：62131003，合同金额393万，执行期：2022.01-2025.12
+3. 国家重点研发计划课题《高真实感的多媒体场景谋略内容生成关键技术》，课题编号：2021QY1503，合同金额948万，执行期：2021.11—2024.11
+4. 海河信创实验室项目《基于信创的可视媒体计算》，课题编号：XCHR202110104，合同金额300万，执行期：2021.11—2024.11
+已完结的代表性项目
+  1. 北京市科技计划项目《面向深空探测的实时光谱成像系统研究》，项目编号：Z181100003018003，合同金额1000万，执行期：2018.01-2019.12
+  2. 国家重点研发计划项目《支持大数据理解的头戴式无障碍呈现技术、装备与云服务平台》，项目编号：2016YFB1001500，合同金额2880万，执行期：2016.07-2019.12
+  3. 国家杰出青年科学基金《图像/视频的结构表达与应用》，课题编号：61425013，合同金额400万，执行期：2015.01-2019.12
+  4. 国家自然科学基金重点项目《适应云计算环境的视频编码、传输与智能处理》，课题编号：61133008，合同金额280万，执行期：2012.1-2016.12
+主要学术成果
+
+2023年
+1.  Guangtao Nie, Hua Huang*. Multi-Oriented Object Detection in Aerial Images With Double Horizontal Rectangles[J]. IEEE Trans. Pattern Anal. Mach. Intell. 45(4): 4932-4944 (2023)
+2.  Yuanfei Huang, Jie Li, Yanting Hu, Xinbo Gao, Hua Huang. Transitional Learning: Exploring the Transition States of Degradation for Blind Super-resolution[J]. IEEE Trans. Pattern Anal. Mach. Intell. 45(5): 6495-6510 (2023)
+3.  Lingfei Song, Hua Huang*. Fixed Pattern Noise Removal Based on a Semi-Calibration Method[J]. IEEE Trans. Pattern Anal. Mach. Intell. 45(10): 11842-11855 (2023)
+4.  Xiao-Xiang Wei, Hua Huang*. Edge Devices Clustering for Federated Visual Classification: A Feature Norm Based Framework[J]. IEEE Trans. Image Process. 32: 995-1010 (2023)
+5.  Lingfei Song, Hua Huang*. Simultaneous Destriping and Image Denoising Using a Nonparametric Model With the EM Algorithm[J]. IEEE Trans. Image Process. 32: 1065-1077 (2023)
+6.  Jia Li, Chen-Yan Bai, Hua Huang. Universal Demosaicking for Interpolation-Friendly RGBW Color Filter Arrays[J]. IEEE Trans. Image Process. 32: 3592-3605 (2023)
+7.  Yaohui Zhu, Xiaoyu Sun, Miao Wang, Hua Huang. Multi-Modal Feature Pyramid Transformer for RGB-Infrared Object Detection[J]. IEEE Trans. Intell. Transp. Syst. 24(9): 9984-9995 (2023)
+8. Tianyu Shen, Deqi Li, Fei-Yue Wang, Hua Huang. Depth-Aware Multi-Person 3D Pose Estimation With  Multi-Scale Waterfall Representations[J]. IEEE Trans. MM. 25: 1439-1451 (2023)
+9.  Lei Zhang, Hua Huang. Image Stitching With Manifold Optimization[J]. IEEE Trans. MM. 25: 3469-3482 (2023)
+10. Deqi Li, Shi-Sheng Huang, Tianyu Shen, Hua Huang. Dynamic View Synthesis with Spatio-Temporal Feature Warping from Sparse Views[C]. ACM Multimedia 2023: 1565-1576
+2022年
+1.  Ying Fu, Tao Zhang, Yinqiang Zheng, Debing Zhang, Hua Huang*. Joint Camera Spectral Response Selection and Hyperspectral Image Recovery. IEEE Trans. Pattern Analysis and Machine Intelligence, 2022, 44(1): 256-272
+2.  De-Lei Chen, Lei Zhang, Hua Huang*. Extracting Small Flying Airplane With Spatially Accurate and Temporally Consistent Foreground Modeling. IEEE Trans. Geosci. Remote. Sens.2022, 60: 1-12
+3.  Kaixuan Wei, Angelica I. Avilés-Rivero, Jingwei Liang, Ying Fu, Hua Huang, Carola-Bibiane Schönlieb. TFPnP: Tuning-free Plug-and-Play Proximal Algorithms with Applications to Inverse Imaging Problems. J. Mach. Learn. Res. 2022, 23(16):1-48
+4.  Ying Fu, Tao Zhang, Lizhi Wang, Hua Huang. Coded Hyperspectral Image Reconstruction Using Deep External and Internal Learning. IEEE Trans. Pattern Anal. Mach. Intell. 2022, 44(7): 3404-3420
+5.  De-Lei Chen, Lei Zhang, Hua Huang. Robust Extraction and Super-Resolution of Low-Resolution Flying Airplane From Satellite Video. IEEE Trans. Geosci. Remote. Sens. 60: 1-16 (2022)
+6.  Jian-Xiang Rong, Lei Zhang, Hua Huang*, Fang-Lue Zhang. IMU-Assisted Online Video Background Identification. IEEE Trans. Image Process. 2022, 31(6): 4336-4351
+7.  Wufan Wang, Bo Wang, Lei Zhang, Hua Huang*. Sensitivity-Aware Spatial Quality Adaptation for Live Video Analytics. IEEE Journal on Selected Areas in Communications, 2022, 40(8): 2474-2484
+8.  De-Wang Li, Hua Huang*. Few-Shot Class-Incremental Learning via Compact and Separable Features for Fine-Grained Vehicle Recognition. IEEE Trans. Intell. Transp. Syst. 23(11): 21418-21429 (2022)
+9.  Wufan Wang, Lei Zhang, Hua Huang*. Progressive Unsupervised Learning of Local Descriptors[C]. ACM Multimedia 2022: 2371-2379
+10.  Lei Lu, Ping Wang, Hua Huang. A Large-Scale Frontal Vehicle Image Dataset for Fine-Grained Vehicle Categorization[C]. IEEE Trans. Intell. Transp. Syst. 23(3): 1818-1828 (2022)
+奖励与荣誉
+
+2020年     EURASIP Best Paper Award，每两年评选一篇
+2020年     ICML Outstanding Paper Awards，大陆第二篇
+2018年  国家高层次人才特殊支持计划科技创新领军人才
+2017年  科技部中青年科技创新领军人才
+2016年  第十四届中国青年科技奖
+2014年     国家杰出青年基金
+2013年  中国计算机学会青年科学家奖
+2012年  教育部技术发明一等奖（第二完成人）
+学术与社会活动
+
+中国计算机学会常务理事，中国图像图形学会常务理事、多媒体专委会主任，中国自动化学会理事、副秘书长，IEEE TITS AE，JTVC AE，《计算机辅助设计与图形学学报》副主编，《电子与信息学报》副主编，《中国科技论文》（信息技术卷）执行主编。
+招生说明
+
+详见：https://vmcl.bnu.edu.cn/recruit/zpsm/index.htm
+
+
+联系电话：010-58807943
+邮编：100875
+地址：北京市海淀区新外大街19号电子楼
+
+京师智能E家
+
+学院官方微信
+学院概况
+学院简介 组织机构 学术机构 教学机构 师资队伍 一体两翼
+招生专栏
+本科专业介绍 教授讲专业 学生讲专业 本科招生介绍 本科招生咨询 研究生招生通知 研究生招生简章 研究生报考流程
+人才培养
+本科生培养 研究生培养 教学成果 条件支撑 国际交流
+学生天地
+通知新闻 团学组织 学生风采 实践竞赛
+科学研究
+科研团队 科研成果 学术活动
+招贤纳士
+教师招聘 博士后招聘 其他人员招聘
+党群工作
+党群组织 党团活动 工会之家 院友专栏
+社会服务
+校企合作 教育培训
+公告及下载
+学院新闻 通知公告 文件下载 办事流程
+© 版权所有 北京师范大学人工智能学院
