@@ -19,11 +19,13 @@
 
 本人的环境为：MacBook Air M2，c/c++ IDE为Xcode，python IDE为PyCharm，LaTeX使用overleaf在线编译，部分文件使用VS Code打开，虚拟机使用VMWare。
 
+本仓库基本是我自己学习过程中产生或搜集到的资料、笔记、题目的汇总集合。维护和更新也基本是我一人完成，如有任何问题，请与我联系。如不喜欢本仓库的风格，在GitHub上搜索部分关键字可找到其他同学维护的仓库。
+
 ## 致谢
 
 另外向以下网站和仓库表达感谢：
 
-https://github.com/nanonane/Survive_the_Final  ，这是21CS的学姐的仓库～
+https://github.com/nanonane/Survive_the_Final  ，这是21CS的学姐的仓库～但貌似删了呜呜呜呜呜
 
 https://csdiy.wiki  ，终归要自学的，不是吗？
 
