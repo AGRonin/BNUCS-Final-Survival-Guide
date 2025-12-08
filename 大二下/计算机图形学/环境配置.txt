@@ -1,0 +1,80 @@
+当时配置基于：MacBook M2 MacOS Sequoia 15.0
+Xcode Version 15.0
+
+写作本文件时软件已更新为：
+MacBook M2 MacOS Tahoe 26.0
+Xcode Version 26.0
+
+但基本大差不差的。
+
+我这里讲解的是Week2和Week8的环境配置，Week8可以覆盖Week2。看起来又臭又长的就是Week2的，比如说写了四个地址的。
+
+一、吐槽
+逆天一样的环境配置。第一次被如此的恶心到。
+非常非常玄学，甚至完全一样的环境就因为Project的名称不同，一个运行成功，一个运行失败。
+
+请！参考！Week2：给四面体上色 这个Project！！！
+
+二、Xcode
+非常有趣非常有趣，前面的安装库的步骤就不写了，哦不对还得写。
+
+库安装这件事情，因为！Xcode对未签名/签名错误的动态链接库不兼容！！逆天。所以，我们需要自己进行编译得到静态链接库！
+
+我应该会附上我编译好的，应该是可以直接用的。
+
+在Xcode页面的最左侧，点击蓝色项目图标，进入配置界面。
+选择PROJECT，进入Build Settings，请注意选择All！！！
+然后往底下找，找到Search Paths这一栏，寻找到Header Search Paths和Library Search Paths。
+前者，填入：/Users/yangbowen/Library/GL/GLFW/include
+/Users/yangbowen/Library/GL/GLAD/include
+"$(SRCROOT)/../../../../../../../Library/GL/GLAD/include"
+"$(SRCROOT)/../../../../../../../Library/GL/GLFW/include"
+这个是我自己的地址，你需要对应的改。也可以按照我的这个来。后面的是相对地址，为什么我又写了相对又写了绝对呢，因为前面的我比较傻，不知道咋地反正当时的只有一个绝对地址的时候可能因为某种原因有问题。
+不过后来我发现，可以只写如下一个："$(SRCROOT)/../../../../../../../Library/GL"，选上recursive。
+这个相对地址也是从我的文件出发的，你需要自己改。
+我应该会把我的GL文件夹全部放出来，这个应该可以直接用。
+
+如果你用了我后面这个东西，那么Library Search Paths也可以直接用这个："$(SRCROOT)/../../../../../../../Library/GL"，选上recursive。
+当然也可以
+/Users/yangbowen/Library/GL/GLFW
+/Users/yangbowen/Library/GL/GLAD
+"$(SRCROOT)/../../../../../../../Library/GL/GLFW"
+"$(SRCROOT)/../../../../../../../Library/GL/GLAD"
+
+好的我们继续，请找到Linking-General，找Other Linker Flags，填入-lz
+
+没记错的话，这一部分就结束了。如果有问题的话对着我的Xcode配置改吧（（。
+
+接下来，请点击TARGETS底下的那个玩意，然后右侧会有一个跟刚刚差不多的页面。
+请在这个页面中选择Build Phases。
+请选择Compile Sources，加入glad.c，建议直接把glad.c的文件拖到那个地方，不要自己打地址。
+然后在Link Binart With Libraries中，加入：
+CoreGraphics.framwork
+Cocoa.framework
+CoreFoundation.framework
+IOKit.framework
+OpenGL.framework（前五个可以直接搜索得到）
+libglfw3.a（这个在GL里面我给了）
+libassimp.a（这个在GL里面我给了）
+这个好像是选Add Other...还是直接拖也行啊我忘了。
+
+好的这样结束后，你的程序应该可以运行了。
+
+三、下一个Xcode
+当我们要配置下一个环境的时候，总不能再这样来一遍了吧？
+所以！请保留好你的Xcode Project。在下一个项目开始的时候，不要新建，请进行复制！
+复制顺序如下：
+先复制整个文件夹（这里是Week8：让我们测试环境.xcodeproj的上层文件夹，应该叫Week8：让我们测试环境）。
+我们称整个文件夹就是上面这个东西，称内部文件夹为与Week8：让我们测试环境.xcodeproj同级的那个Week8：让我们测试环境。
+复制完整个文件夹后，给整个文件夹改名，然后点击进入Week8：让我们测试环境.xcodeproj。
+进入之后，在左侧侧边栏双击蓝色图标，可以给project改名。
+然后双击glad底下的那个文件夹，可以给内部文件夹改名。
+不要忘记改main.cpp最开头的注释（这个也可以不改）
+
+然后，点击位于整个Xcode软件界面最上方的一个黑黑的东西，后面应该跟着你的项目名字。看着就像终端。
+选择Manage Scheme，
+进入之后Scheme应该没有跟随你的project改名。趁着Scheme那个东西不注意，先选中，然后悄悄的点一下他让他进入改名状态。然后改名。
+
+所有的名称都应该变成你的新proect名并且相同！！！
+
+如此，搞定。
