@@ -15,6 +15,8 @@ Xcode Version 26.0
 
 请！参考！Week2：给四面体上色 这个Project！！！
 
+如果是VSCode，可以写完了之后直接VSCode中的终端里面执行，或者让GPT直接写一个Makefile，然后make就行了，这种貌似更简单一些，但我没试过。
+
 二、Xcode
 非常有趣非常有趣，前面的安装库的步骤就不写了，哦不对还得写。
 
