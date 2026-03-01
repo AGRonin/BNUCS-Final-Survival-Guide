@@ -1,0 +1,11 @@
+setup.py
+p3d_utils/__init__.py
+p3d_utils/camera_visualization.py
+p3d_utils/generate_cow_renders.py
+p3d_utils/plot_image_grid.py
+p3d_utils.egg-info/PKG-INFO
+p3d_utils.egg-info/SOURCES.txt
+p3d_utils.egg-info/dependency_links.txt
+p3d_utils.egg-info/requires.txt
+p3d_utils.egg-info/top_level.txt
+p3d_utils.egg-info/zip-safe

@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: p3d_utils
+Version: 0.7.1
+Summary: pytorch3d tutorials utils package
+Author: lyh
+Author-email: liyuhui@mail.bnu.edu.cn
+License: MIT
+Keywords: p3d_utils
+Requires-Python: >=3.9
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: torch
+Requires-Dist: pytorch3d
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: keywords
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+pytorch3d tutorials utils package

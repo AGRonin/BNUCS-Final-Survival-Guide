@@ -1,0 +1,9 @@
+bowen-yang@bowen:~/Desktop/Information Security/Experiment2$ openssl dgst -md5 plain.txt
+MD5(plain.txt)= 3152eec3aed4a36ad24bbe344e6abed1
+bowen-yang@bowen:~/Desktop/Information Security/Experiment2$ openssl dgst -md5 plain_change.txt
+MD5(plain_change.txt)= 5784338f18347e80fa9bb91cd099609e
+bowen-yang@bowen:~/Desktop/Information Security/Experiment2$ openssl dgst -sha256 plain.txt
+SHA256(plain.txt)= 65e3626411f8d082d91a0124a28965759358645b4a38cdc645e4cdd77b0ace5e
+bowen-yang@bowen:~/Desktop/Information Security/Experiment2$ openssl dgst -sha256 plain_change.txt
+SHA256(plain_change.txt)= 6ff73bfb054531fc734ea1b9d946ae85843afb3ec7f0f08b4c76536f90cbf971
+

@@ -1,0 +1,13 @@
+bowen-yang@bowen:~/Desktop/Information Security/Experiment2$ openssl dgst -md5 -hmac "00112233445566778899aabbccddeeff" plain.txt
+HMAC-MD5(plain.txt)= 0e84b815c7f14b644949304a0b445da9
+bowen-yang@bowen:~/Desktop/Information Security/Experiment2$ openssl dgst -md5 -hmac "01234567" plain.txt
+HMAC-MD5(plain.txt)= 8acf0adee14617214febb054e97e2d41
+bowen-yang@bowen:~/Desktop/Information Security/Experiment2$ openssl dgst -md5 -hmac "0" plain.txt
+HMAC-MD5(plain.txt)= 0be1a7b6b60a85ea77eaf8fce09fdbe0
+bowen-yang@bowen:~/Desktop/Information Security/Experiment2$ openssl dgst -md5 -hmac "000" plain.txt
+HMAC-MD5(plain.txt)= c4b30f6775087afcbdbb272cc4007bb2
+bowen-yang@bowen:~/Desktop/Information Security/Experiment2$ openssl dgst -sha1 -hmac "00112233445566778899aabbccddeeff" plain.txt
+HMAC-SHA1(plain.txt)= 255b90d5be1927a3e46169ac0211745bf65ea238
+bowen-yang@bowen:~/Desktop/Information Security/Experiment2$ openssl dgst -sha256 -hmac "00112233445566778899aabbccddeeff" plain.txt
+HMAC-SHA256(plain.txt)= 26b674745233c178d8c7c30ac060a46697043784a5bd625dc761ab48544f4bae
+

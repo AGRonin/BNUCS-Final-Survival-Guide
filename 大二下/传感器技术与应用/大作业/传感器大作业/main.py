@@ -8,7 +8,7 @@ import psutil
 import threading
 
 #DeepSeek连接
-DEEPSEEK_API_KEY = ""
+DEEPSEEK_API_KEY = "xxx"
 client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://api.deepseek.com")
 
 #串口信息
@@ -18,8 +18,8 @@ ser.flush()
 #数据库信息
 conn = psycopg2.connect(
     database="finance01",
-    user="python01_user28",
-    password="python01_user28@123",
+    user="xxx",
+    password="xxx",
     host="110.41.115.206",
     port=8000
 )
